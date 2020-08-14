@@ -61,7 +61,6 @@ node* Delete(node* root, int data) {
     return root;
 }
 
-
 int main() {
     node* root = NULL;
     int t;
