@@ -11,8 +11,9 @@ Use the index given below to search for a required solution.
 
 * <a href="#Practice">Practice</a><br>
 * <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br>
-* <a href="#MARCH20B">March 2020 Long Challenge</a><br>
-* <a href="#JUNE21C">June 2021 Long Challenge</a><br>
+* <a href="#Long Challenge">Long Challenge</a><br>
+* <a href="#Cook Off">Cook Off</a><br>
+* <a href="#LunchTime">LunchTime</a><br>
 
 ## Practice
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -46,7 +47,7 @@ Use the index given below to search for a required solution.
 </div>
 <br/>
 
-## MARCH20B
+## Long Challenge
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 2001 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         |||
@@ -57,7 +58,7 @@ Use the index given below to search for a required solution.
 </div>
 <br/>
 
-## JUNE21C
+## Cook Off
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
@@ -67,3 +68,8 @@ Use the index given below to search for a required solution.
     <b><a href="#Sections">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+## LunchTime
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
