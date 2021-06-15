@@ -6,9 +6,9 @@ This directory contains accepted solutions of problems found at https://www.code
 ## Sections
 
 ▶️ <a href="#Practice">Practice</a><br>
-▶️ <a href="#ZCO">Zonal Computing Olympiad</a><br>
-▶️ Practice <br>
-▶️ Practice <br>
+▶️ <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br>
+▶️ <a href="#MARCH20B">March 2020 Long Challenge</a><br>
+▶️ <a href="#JUNE21C">June 2021 Long Challenge</a><br>
 <!-- NOTE : 
 1) This directory will be updated with solutions of challenges only after they end for everyone(more info 
 on this can be found at codechef site)
@@ -37,7 +37,7 @@ on this can be found at codechef site)
 </div>
 <br/>
 
-## ZCO
+## ZCOPRAC
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [TEST](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
@@ -51,3 +51,21 @@ on this can be found at codechef site)
 0009 | [TLAPM](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0010 | [HS08TEST](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0011 | [FLOW001](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+
+
+<br/>
+<div align="right">
+    <b><a href="#Sections">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## MARCH20B
+
+
+<br/>
+<div align="right">
+    <b><a href="#Sections">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## JUNE21C
