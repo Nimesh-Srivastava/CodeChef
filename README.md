@@ -71,9 +71,8 @@ Use the index given below to search for solutions.
 ## COOK_OFF
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-3001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
-3002 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy | May 2021, Div 2 ||
-3003 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy | May 2021, Div 2 ||
+3001 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy | May 2021, Div 2 ||
+3002 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy | May 2021, Div 2 ||
 
 <br/>
 <div align="right">
