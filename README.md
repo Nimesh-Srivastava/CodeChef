@@ -1,7 +1,9 @@
 # [CodeChef](https://www.codechef.com)
+
 CodeChef solved problems
 
-This directory contains fully or partially accepted solutions of problems
+This directory contains fully or partially accepted solutions of problems.<br>
+Use the index given below to search for a required solution.
 
 ## Sections
 
