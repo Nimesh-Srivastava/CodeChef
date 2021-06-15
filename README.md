@@ -20,10 +20,10 @@ Use the index given below to search for a required solution.
 0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
 0002 | [Hard Cash](https://www.codechef.com/problems/CASH) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
 0003 | [Tax Slabs](https://www.codechef.com/problems/SLAB) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0004 | [Mr Pr in a dilemma](https://www.codechef.com/problems/ICM2008) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0005 | [School of Geometry](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0006 | [At the gates](https://www.codechef.com/problems/POPGATES) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0007 | [BST Operations](https://www.codechef.com/problems/BSTOPS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+0004 | [Mr Pr in a dilemma](https://www.codechef.com/problems/ICM2008) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner        |||
+0005 | [School of Geometry](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
+0006 | [At the gates](https://www.codechef.com/problems/POPGATES) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
+0007 | [BST Operations](https://www.codechef.com/problems/BSTOPS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
 0008 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0009 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0010 | [ATM](https://www.codechef.com/problems/HS08TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
