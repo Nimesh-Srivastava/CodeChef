@@ -17,10 +17,10 @@ Use the index given below to search for a required solution.
 ## Practice
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [TEST](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0002 | [CASH](https://www.codechef.com/problems/CASH) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0003 | [SLAB](https://www.codechef.com/problems/SLAB) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0004 | [ICM2008](https://www.codechef.com/problems/ICM2008) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+0002 | [Hard Cash](https://www.codechef.com/problems/CASH) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+0003 | [Tax Slabs](https://www.codechef.com/problems/SLAB) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+0004 | [Mr Pr in a dilemma](https://www.codechef.com/problems/ICM2008) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0005 | [SNUG_FIT](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0006 | [POPGATES](https://www.codechef.com/problems/POPGATES) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0007 | [BSTOPS](https://www.codechef.com/problems/BSTOPS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
