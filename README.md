@@ -6,7 +6,7 @@ This directory contains accepted solutions of problems found at https://www.code
 ## Sections
 
 ▶️ <a href="#Practice">Practice</a><br>
-▶️ <a href="#Zonal">Zonal Computing Olympiad</a><br>
+▶️ <a href="#ZCO">Zonal Computing Olympiad</a><br>
 ▶️ Practice <br>
 ▶️ Practice <br>
 <!-- NOTE : 
@@ -37,7 +37,7 @@ on this can be found at codechef site)
 </div>
 <br/>
 
-## Zonal Computing Olympiad
+## ZCO
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [TEST](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
