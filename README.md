@@ -9,17 +9,11 @@ Use the index given below to search for a required solution.
 
 ## Sections
 
-    * <a href="#Practice">Practice</a><br><br>
-    * <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br><br>
-    * <a href="#MARCH20B">March 2020 Long Challenge</a><br><br>
-    * <a href="#JUNE21C">June 2021 Long Challenge</a><br><br>
-<!-- NOTE : 
-1) This directory will be updated with solutions of challenges only after they end for everyone(more info 
-on this can be found at codechef site)
-2) All the solutions are compiled on Visual Studio 2019 which uses gnu c++ 17 version 7.3.0
-3) Each directory contains a *"problem.txt"* file that contains the problem description and *".cpp"* file that contains the solution code
-4) Directories marked with "P" at the end contain solution code that was partially accepted
- -->
+* <a href="#Practice">Practice</a><br>
+* <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br>
+* <a href="#MARCH20B">March 2020 Long Challenge</a><br>
+* <a href="#JUNE21C">June 2021 Long Challenge</a><br>
+
 ## Practice
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
