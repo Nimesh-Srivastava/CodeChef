@@ -1,4 +1,4 @@
-# CodeChef
+# [CodeChef](https://www.codechef.com)
 CodeChef solved problems
 
 This directory contains accepted solutions of problems found at https://www.codechef.com/
