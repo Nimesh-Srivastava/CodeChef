@@ -5,10 +5,10 @@ This directory contains accepted solutions of problems found at https://www.code
 
 ## Sections
 
-▶️ <a href="#Practice">Practice</a><br>
-▶️ <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br>
-▶️ <a href="#MARCH20B">March 2020 Long Challenge</a><br>
-▶️ <a href="#JUNE21C">June 2021 Long Challenge</a><br>
+🍮 <a href="#Practice">Practice</a><br><br>
+🍮 <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br><br>
+🍮 <a href="#MARCH20B">March 2020 Long Challenge</a><br><br>
+🍮 <a href="#JUNE21C">June 2021 Long Challenge</a><br><br>
 <!-- NOTE : 
 1) This directory will be updated with solutions of challenges only after they end for everyone(more info 
 on this can be found at codechef site)
