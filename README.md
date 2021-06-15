@@ -3,7 +3,7 @@ CodeChef solved problems
 
 This directory contains accepted solutions of problems found at https://www.codechef.com/
 
-
+# Sections
 <!-- NOTE : 
 1) This directory will be updated with solutions of challenges only after they end for everyone(more info 
 on this can be found at codechef site)
@@ -26,6 +26,11 @@ on this can be found at codechef site)
 0010 | [HS08TEST](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 0011 | [FLOW001](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 
+<br/>
+<div align="right">
+    <b><a href="#Sections">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Practice
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
