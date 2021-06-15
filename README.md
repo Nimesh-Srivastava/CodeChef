@@ -5,7 +5,7 @@ This directory contains accepted solutions of problems found at https://www.code
 
 ## Sections
 
-▶️ <a href="#Practice">Practice <br>
+▶️ <a href="#Practice">Practice </a><br>
 ▶️ Practice <br>
 ▶️ Practice <br>
 ▶️ Practice <br>
