@@ -2,7 +2,9 @@
 
 CodeChef solved problems
 
-This directory contains fully or partially accepted solutions of problems.<br>
+This directory contains fully or partially accepted solutions of problems solved by me.<br>
+<br>If you have any queries, reach me [here](https://discuss.codechef.com/u/nimesh_04/) <br>
+<br>
 Use the index given below to search for a required solution.
 
 ## Sections
