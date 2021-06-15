@@ -60,10 +60,10 @@ Use the index given below to search for a required solution.
 2006 | [Summer Heat](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
 2007 | [Bella Ciao](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
 2008 | [Shortest Route](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
-2009 | [Minimum Subtree Cover](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
-2010 | [Dual Distance](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
-2011 | [Optimal XOR set](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
-2012 | [Minimum Dual Area](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
+2009 | [Minimum Subtree Cover](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy        | March 2020, Div 3 ||
+2010 | [Dual Distance](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy        | February 2021, Div 3 ||
+2011 | [Optimal XOR set](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy         | March 2020, Div 3 ||
+2012 | [Minimum Dual Area](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy        | February 2021, Div 3 ||
 
 <br/>
 <div align="right">
