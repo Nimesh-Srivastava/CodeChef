@@ -10,10 +10,10 @@ Use the index given below to search for a required solution.
 ## Sections
 
 * <a href="#Practice">Practice</a><br>
-* <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br>
-* <a href="#Long Challenge">Long Challenge</a><br>
-* <a href="#Cook Off">Cook Off</a><br>
-* <a href="#LunchTime">LunchTime</a><br>
+* <a href="#ZONAL_COMPUTING_OLYMPIAD">Zonal Computing Olympiad</a><br>
+* <a href="#LONG_CHALLENGE">Long Challenge</a><br>
+* <a href="#COOK_OFF">Cook Off</a><br>
+* <a href="#LUNCHTIME">LunchTime</a><br>
 
 ## Practice
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
@@ -36,7 +36,7 @@ Use the index given below to search for a required solution.
 </div>
 <br/>
 
-## ZCOPRAC
+## ZONAL COMPUTING OLYMPIAD
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
@@ -47,7 +47,7 @@ Use the index given below to search for a required solution.
 </div>
 <br/>
 
-## Long Challenge
+## LONG_CHALLENGE
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 2001 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         |||
@@ -58,7 +58,7 @@ Use the index given below to search for a required solution.
 </div>
 <br/>
 
-## Cook Off
+## COOK_OFF
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
@@ -69,7 +69,7 @@ Use the index given below to search for a required solution.
 </div>
 <br/>
 
-## LunchTime
+## LUNCHTIME
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
