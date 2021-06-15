@@ -38,7 +38,7 @@ Use the index given below to search for solutions.
 ## ZONAL_COMPUTING_OLYMPIAD
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Beginner | 2015 ||
+1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Beginner | 2014, 2015 ||
 
 <br/>
 <div align="right">
