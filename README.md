@@ -6,7 +6,7 @@ This directory contains accepted solutions of problems found at https://www.code
 ## Sections
 
 ▶️ <a href="#Practice">Practice</a><br>
-▶️ <a href="#Zonal Commputing Olympiad">Zonal Computing Olympiad</a><br>
+▶️ <a href="#Zonal">Zonal Computing Olympiad</a><br>
 ▶️ Practice <br>
 ▶️ Practice <br>
 <!-- NOTE : 
