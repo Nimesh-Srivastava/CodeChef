@@ -9,10 +9,10 @@ Use the index given below to search for a required solution.
 
 ## Sections
 
-🍮 <a href="#Practice">Practice</a><br><br>
-🍮 <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br><br>
-🍮 <a href="#MARCH20B">March 2020 Long Challenge</a><br><br>
-🍮 <a href="#JUNE21C">June 2021 Long Challenge</a><br><br>
+    * <a href="#Practice">Practice</a><br><br>
+    * <a href="#ZCOPRAC">Zonal Computing Olympiad</a><br><br>
+    * <a href="#MARCH20B">March 2020 Long Challenge</a><br><br>
+    * <a href="#JUNE21C">June 2021 Long Challenge</a><br><br>
 <!-- NOTE : 
 1) This directory will be updated with solutions of challenges only after they end for everyone(more info 
 on this can be found at codechef site)
