@@ -37,7 +37,7 @@ Use the index given below to search for a required solution.
 ## ZONAL_COMPUTING_OLYMPIAD
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
+1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Beginner | 2015 ||
 
 <br/>
 <div align="right">
@@ -48,7 +48,18 @@ Use the index given below to search for a required solution.
 ## LONG_CHALLENGE
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-2001 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         |||
+2001 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
+2002 | [XOR Engine](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
+2003 | [Ada Bishop 2](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
+2004 | [Lasers Everywhere](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
+2005 | [Highest Divisor](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
+2006 | [Summer Heat](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
+2007 | [Bella Ciao](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
+2008 | [Shortest Route](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
+2009 | [Minimum Subtree Cover](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
+2010 | [Dual Distance](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
+2011 | [Optimal XOR set](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
+2012 | [Minimum Dual Area](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
 
 <br/>
 <div align="right">
@@ -60,8 +71,8 @@ Use the index given below to search for a required solution.
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 3001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
-3002 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-3003 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+3002 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy | May 2021, Div 2 ||
+3003 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy | May 2021, Div 2 ||
 
 <br/>
 <div align="right">
