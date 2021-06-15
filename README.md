@@ -25,10 +25,8 @@ Use the index given below to search for a required solution.
 0005 | [School of Geometry](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
 0006 | [At the gates](https://www.codechef.com/problems/POPGATES) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
 0007 | [BST Operations](https://www.codechef.com/problems/BSTOPS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0008 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0009 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0010 | [ATM](https://www.codechef.com/problems/HS08TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0011 | [Add 2 numbers](https://www.codechef.com/problems/FLOW001) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
+0008 | [ATM](https://www.codechef.com/problems/HS08TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
+0009 | [Add 2 numbers](https://www.codechef.com/problems/FLOW001) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
 
 <br/>
 <div align="right">
@@ -36,7 +34,7 @@ Use the index given below to search for a required solution.
 </div>
 <br/>
 
-## ZONAL COMPUTING OLYMPIAD
+## ZONAL_COMPUTING_OLYMPIAD
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
@@ -61,7 +59,9 @@ Use the index given below to search for a required solution.
 ## COOK_OFF
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
+3001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
+3002 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
+3003 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 
 <br/>
 <div align="right">
@@ -72,4 +72,4 @@ Use the index given below to search for a required solution.
 ## LUNCHTIME
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]() |        |          | Easy         |||
+4001 | [NULL]() | []() |        |          |          |||
