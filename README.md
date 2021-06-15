@@ -3,9 +3,8 @@
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kamyu104.leetcode.solutions)
 
-CodeChef solved problems
+CodeChef solutions
 
 This directory contains fully or partially accepted solutions of problems solved by me.<br>
 <br>If you have any queries, reach me [here](https://discuss.codechef.com/u/nimesh_04/).<br>
