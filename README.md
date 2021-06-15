@@ -44,18 +44,7 @@ on this can be found at codechef site)
 ## ZCOPRAC
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [TEST](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0002 | [CASH](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0003 | [SLAB](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0004 | [ICM2008](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0005 | [SNUG_FIT](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0006 | [POPGATES](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0007 | [BSTOPS](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0008 | [CSUBS](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0009 | [TLAPM](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0010 | [HS08TEST](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-0011 | [FLOW001](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
-
+1001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Easy         |||
 
 <br/>
 <div align="right">
