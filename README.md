@@ -22,7 +22,7 @@ Use the index given below to search for solutions.
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Practice/test.cpp) |        |          | Beginner         |||
-0002 | [Hard Cash](https://www.codechef.com/problems/CASH) | [C++]./Practice/cash.cpp) |        |          | Beginner         |||
+0002 | [Hard Cash](https://www.codechef.com/problems/CASH) | [C++](./Practice/cash.cpp) |        |          | Beginner         |||
 0003 | [Tax Slabs](https://www.codechef.com/problems/SLAB) | [C++](./Practice/slab.cpp) |        |          | Beginner         |||
 0004 | [Mr Pr in a dilemma](https://www.codechef.com/problems/ICM2008) | [C++](./Practice/icm2008.cpp) |        |          | Beginner        |||
 0005 | [School of Geometry](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Practice/snug_fit.cpp) |        |          | Beginner         |||
