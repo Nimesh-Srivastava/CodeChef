@@ -52,16 +52,16 @@ Use the index given below to search for solutions.
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 2001 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/chpintu.cpp) |        |          | Beginner         | March 2020, Div 3 ||
-2002 | [XOR Engine](https://www.codechef.com/MARCH20B/problems/ENGXOR) | [C++](./Long_challenge/engxor.cpp) |        |          | Beginner         | March 2020, Div 3 ||
-2003 | [Ada Bishop 2](https://www.codechef.com/MARCH20B/problems/ADASHOP2) | [C++](/Long_challenge/adashop2.cpp) |        |          | Beginner         | March 2020, Div 3 ||
-2004 | [Lasers Everywhere](https://www.codechef.com/MARCH20B/problems/LAZER) | [C++](./Long_challenge/lazer.cpp) |        |          | Beginner         | March 2020, Div 3 ||
+2002 | [XOR Engine](https://www.codechef.com/MARCH20B/problems/ENGXOR) | [C++](./Long_challenge/engxor.cpp) |        |          | Beginner         | March 2020, Div 3 | Partial |
+2003 | [Ada Bishop 2](https://www.codechef.com/MARCH20B/problems/ADASHOP2) | [C++](/Long_challenge/adashop2.cpp) |        |          | Beginner         | March 2020, Div 3 | Partial |
+2004 | [Lasers Everywhere](https://www.codechef.com/MARCH20B/problems/LAZER) | [C++](./Long_challenge/lazer.cpp) |        |          | Beginner         | March 2020, Div 3 | Partial |
 2005 | [Highest Divisor](https://www.codechef.com/MARCH20B/problems/) | [C++](./Long_challenge/) |        |          | Beginner         | February 2021, Div 3 ||
 2006 | [Summer Heat](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/summer_heat.cpp) |        |          | Beginner         | June 2021, Div 3 ||
 2007 | [Bella Ciao](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/bella_ciao.cpp) |        |          | Beginner         | June 2021, Div 3 ||
 2008 | [Shortest Route](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/shortest_route.cpp) |        |          | Beginner         | June 2021, Div 3 ||
 2009 | [Minimum Subtree Cover](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/min_subtree_cover.cpp) |        |          | Easy        | June 2021, Div 3 ||
 2010 | [Dual Distance](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/dual_dist.cpp) |        |          | Easy        | June 2021, Div 3 ||
-2011 | [Optimal XOR set](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/optimal_xor_set.cpp) |        |          | Easy         | June 2021, Div 3 ||
+2011 | [Optimal XOR set](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/optimal_xor_set.cpp) |        |          | Easy         | June 2021, Div 3 | Partial |
 2012 | [Minimum Dual Area](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/minimum_dual_area.cpp) |        |          | Easy        | June 2021, Div 3 ||
 
 <br/>
