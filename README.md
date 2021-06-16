@@ -28,8 +28,8 @@ Use the index given below to search for solutions.
 0005 | [School of Geometry](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Practice/snug_fit.cpp) |        |          | Beginner         |||
 0006 | [At the gates](https://www.codechef.com/problems/POPGATES) | [C++](./Practice/popgates.cpp) |        |          | Beginner         |||
 0007 | [BST Operations](https://www.codechef.com/problems/BSTOPS) | [C++](./Practice/bstops.cpp) |        |          | Beginner         |||
-0008 | [ATM](https://www.codechef.com/problems/HS08TEST) | [C++](./Practice/) |        |          | Beginner         |||
-0009 | [Add 2 numbers](https://www.codechef.com/problems/FLOW001) | [C++](./Practice/) |        |          | Beginner         |||
+0008 | [ATM](https://www.codechef.com/problems/HS08TEST) | [C++](./Practice/atm.cpp) |        |          | Beginner         |||
+0009 | [Add 2 numbers](https://www.codechef.com/problems/FLOW001) | [C++](./Practice/2num.cpp) |        |          | Beginner         |||
 
 <br/>
 <div align="right">
