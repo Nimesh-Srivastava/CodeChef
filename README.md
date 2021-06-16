@@ -15,19 +15,21 @@ Use the index given below to search for solutions.
 * <a href="#LONG_CHALLENGE">Long Challenge</a><br>
 * <a href="#COOK_OFF">Cook Off</a><br>
 * <a href="#LUNCHTIME">LunchTime</a><br>
+* <a href="#DSA_LEARNING_SERIES">DSA Learning Series</a><br>
+
 
 ## Practice
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0002 | [Hard Cash](https://www.codechef.com/problems/CASH) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0003 | [Tax Slabs](https://www.codechef.com/problems/SLAB) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0004 | [Mr Pr in a dilemma](https://www.codechef.com/problems/ICM2008) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner        |||
-0005 | [School of Geometry](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0006 | [At the gates](https://www.codechef.com/problems/POPGATES) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0007 | [BST Operations](https://www.codechef.com/problems/BSTOPS) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0008 | [ATM](https://www.codechef.com/problems/HS08TEST) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
-0009 | [Add 2 numbers](https://www.codechef.com/problems/FLOW001) | [C++](./Easy/Life_univ_everything.cpp) |        |          | Beginner         |||
+0001 | [Life, the Universe, and Everything](https://www.codechef.com/problems/TEST) | [C++](./Practice/test.cpp) |        |          | Beginner         |||
+0002 | [Hard Cash](https://www.codechef.com/problems/CASH) | [C++]./Practice/cash.cpp) |        |          | Beginner         |||
+0003 | [Tax Slabs](https://www.codechef.com/problems/SLAB) | [C++](./Practice/slab.cpp) |        |          | Beginner         |||
+0004 | [Mr Pr in a dilemma](https://www.codechef.com/problems/ICM2008) | [C++](./Practice/icm2008.cpp) |        |          | Beginner        |||
+0005 | [School of Geometry](https://www.codechef.com/problems/SNUG_FIT) | [C++](./Practice/snug_fit.cpp) |        |          | Beginner         |||
+0006 | [At the gates](https://www.codechef.com/problems/POPGATES) | [C++](./Practice/popgates.cpp) |        |          | Beginner         |||
+0007 | [BST Operations](https://www.codechef.com/problems/BSTOPS) | [C++](./Practice/bstops.cpp) |        |          | Beginner         |||
+0008 | [ATM](https://www.codechef.com/problems/HS08TEST) | [C++](./Practice/) |        |          | Beginner         |||
+0009 | [Add 2 numbers](https://www.codechef.com/problems/FLOW001) | [C++](./Practice/) |        |          | Beginner         |||
 
 <br/>
 <div align="right">
@@ -49,18 +51,18 @@ Use the index given below to search for solutions.
 ## LONG_CHALLENGE
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-2001 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
-2002 | [XOR Engine](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
-2003 | [Ada Bishop 2](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
-2004 | [Lasers Everywhere](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | March 2020, Div 3 ||
-2005 | [Highest Divisor](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | February 2021, Div 3 ||
-2006 | [Summer Heat](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | June 2021, Div 3 ||
-2007 | [Bella Ciao](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | June 2021, Div 3 ||
-2008 | [Shortest Route](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Beginner         | June 2021, Div 3 ||
-2009 | [Minimum Subtree Cover](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy        | June 2021, Div 3 ||
-2010 | [Dual Distance](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy        | June 2021, Div 3 ||
-2011 | [Optimal XOR set](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy         | June 2021, Div 3 ||
-2012 | [Minimum Dual Area](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++]() |        |          | Easy        | June 2021, Div 3 ||
+2001 | [Pintu and Fruits](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/chpintu.cpp) |        |          | Beginner         | March 2020, Div 3 ||
+2002 | [XOR Engine](https://www.codechef.com/MARCH20B/problems/ENGXOR) | [C++](./Long_challenge/engxor.cpp) |        |          | Beginner         | March 2020, Div 3 ||
+2003 | [Ada Bishop 2](https://www.codechef.com/MARCH20B/problems/ADASHOP2) | [C++](/Long_challenge/adashop2.cpp) |        |          | Beginner         | March 2020, Div 3 ||
+2004 | [Lasers Everywhere](https://www.codechef.com/MARCH20B/problems/LAZER) | [C++](./Long_challenge/lazer.cpp) |        |          | Beginner         | March 2020, Div 3 ||
+2005 | [Highest Divisor](https://www.codechef.com/MARCH20B/problems/) | [C++](./Long_challenge/) |        |          | Beginner         | February 2021, Div 3 ||
+2006 | [Summer Heat](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/summer_heat.cpp) |        |          | Beginner         | June 2021, Div 3 ||
+2007 | [Bella Ciao](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/bella_ciao.cpp) |        |          | Beginner         | June 2021, Div 3 ||
+2008 | [Shortest Route](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/shortest_route.cpp) |        |          | Beginner         | June 2021, Div 3 ||
+2009 | [Minimum Subtree Cover](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/min_subtree_cover.cpp) |        |          | Easy        | June 2021, Div 3 ||
+2010 | [Dual Distance](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/dual_dist.cpp) |        |          | Easy        | June 2021, Div 3 ||
+2011 | [Optimal XOR set](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/optimal_xor_set.cpp) |        |          | Easy         | June 2021, Div 3 ||
+2012 | [Minimum Dual Area](https://www.codechef.com/MARCH20B/problems/CHPINTU) | [C++](./Long_challenge/minimum_dual_area.cpp) |        |          | Easy        | June 2021, Div 3 ||
 
 <br/>
 <div align="right">
@@ -84,3 +86,18 @@ Use the index given below to search for solutions.
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 4001 | [NULL]() | []() |        |          |          |||
+
+<br/>
+<div align="right">
+    <b><a href="#Sections">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## DSA_LEARNING_SERIES
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+5001 | [NULL]() | []() |        |          |          |||
+5002 | [NULL]() | []() |        |          |          |||
+5003 | [NULL]() | []() |        |          |          |||
+5004 | [NULL]() | []() |        |          |          |||
+5005 | [NULL]() | []() |        |          |          |||
