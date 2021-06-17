@@ -40,8 +40,8 @@ Use the index given below to search for solutions.
 ## ZONAL_COMPUTING_OLYMPIAD
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++]("./ZCO/zco15002.cpp") |        |          | Beginner | 2014, 2015 ||
-0002 | [Smart Phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003) | [C++]("./ZCO/zco14003.cpp") |        |          | Beginner | 2015 ||
+0001 | [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002) | [C++](./ZCO/zco15002.cpp) |        |          | Beginner | 2014, 2015 ||
+0002 | [Smart Phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003) | [C++](./ZCO/zco14003.cpp) |        |          | Beginner | 2015 ||
 
 <br/>
 <div align="right">
@@ -98,8 +98,8 @@ Use the index given below to search for solutions.
 ## DSA_LEARNING_SERIES
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C++](./DSA_Learning_Series/carvans.cpp) |        |          |          |||
-0002 | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C++](./DSA_Learning_Series/fctrl.cpp) |        |          |          |||
-0003 | [Reverse the number](https://www.codechef.com/LRNDSA01/problems/FLOW007) | [C++](./DSA_Learning_Series/flow007.cpp) |        |          |          |||
-0004 | [Lapindromes](https://www.codechef.com/LRNDSA01/problems/LAPIN) | [C++](./DSA_Learning_Series/lapin.cpp) |        |          |          |||
+0001 | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C++](./DSA_Learning_Series/Week_1/carvans.cpp) |        |          |          |||
+0002 | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C++](./DSA_Learning_Series/Week_1/fctrl.cpp) |        |          |          |||
+0003 | [Reverse the number](https://www.codechef.com/LRNDSA01/problems/FLOW007) | [C++](./DSA_Learning_Series/Week_1/flow007.cpp) |        |          |          |||
+0004 | [Lapindromes](https://www.codechef.com/LRNDSA01/problems/LAPIN) | [C++](./DSA_Learning_Series/Week_1/lapin.cpp) |        |          |          |||
 0005 | [Smart Phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003) | [C++](./ZCO/zco14003.cpp) |        |          |          |||
