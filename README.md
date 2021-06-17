@@ -74,9 +74,9 @@ Use the index given below to search for solutions.
 ## COOK_OFF
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++]("./Cookoff/double_burger.cpp") |        |          | Beginner | May 2021, Div 2 ||
-0002 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++]("./Cookoff/double_burger.cpp") |        |          | Easy | May 2021, Div 2 ||
-0003 | [Double Burgers](https://www.codechef.com/problems/BURGER) | [C++]("./Cookoff/double_burger.cpp") |        |          | Easy | May 2021, Div 2 ||
+0001 | [Chef and Subarrays](https://www.codechef.com/problems/CSUBS) | [C++](./Cookoff/double_burger.cpp) |        |          | Beginner | May 2021, Div 2 ||
+0002 | [The Last Problem](https://www.codechef.com/problems/TLAPM) | [C++](./Cookoff/double_burger.cpp) |        |          | Easy | May 2021, Div 2 ||
+0003 | [Double Burgers](https://www.codechef.com/problems/BURGER) | [C++](./Cookoff/double_burger.cpp) |        |          | Easy | May 2021, Div 2 ||
 
 <br/>
 <div align="right">
@@ -98,8 +98,8 @@ Use the index given below to search for solutions.
 ## DSA_LEARNING_SERIES
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0001 | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C++]("./DSA_Learning_Series/carvans.cpp") |        |          |          |||
-0002 | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C++]("./DSA_Learning_Series/fctrl.cpp") |        |          |          |||
-0003 | [Reverse the number](https://www.codechef.com/LRNDSA01/problems/FLOW007) | [C++]("./DSA_Learning_Series/flow007.cpp") |        |          |          |||
-0004 | [Lapindromes](https://www.codechef.com/LRNDSA01/problems/LAPIN) | [C++]("./DSA_Learning_Series/lapin.cpp") |        |          |          |||
-0005 | [Smart Phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003) | [C++]("./ZCO/zco14003.cpp") |        |          |          |||
+0001 | [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS) | [C++](./DSA_Learning_Series/carvans.cpp) |        |          |          |||
+0002 | [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL) | [C++](./DSA_Learning_Series/fctrl.cpp) |        |          |          |||
+0003 | [Reverse the number](https://www.codechef.com/LRNDSA01/problems/FLOW007) | [C++](./DSA_Learning_Series/flow007.cpp) |        |          |          |||
+0004 | [Lapindromes](https://www.codechef.com/LRNDSA01/problems/LAPIN) | [C++](./DSA_Learning_Series/lapin.cpp) |        |          |          |||
+0005 | [Smart Phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003) | [C++](./ZCO/zco14003.cpp) |        |          |          |||
