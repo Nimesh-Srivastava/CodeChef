@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-C++-orange.svg)&nbsp;
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)&nbsp;
-![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
+![Update](https://img.shields.io/badge/update-monthly-green.svg)&nbsp;
 
 This directory contains fully or partially accepted solutions of problems solved by me. If you have any queries, reach me [here.](https://discuss.codechef.com/u/nimesh_04/)<br>
 <br>
